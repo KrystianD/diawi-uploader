@@ -25,7 +25,14 @@ Config file search paths (in order):
 - `HOME/.diawi_uploader.ini`
 - `HOME/.config/diawi_uploader.ini`
 
-### Example
+##### Example configuration file
+
+```
+[default]
+token=<YOUR_TOKEN>
+```
+
+### Usage example
 
 ```shell
 python diawi_uploader.py --qr app_debug.apk
