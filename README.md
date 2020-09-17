@@ -12,7 +12,7 @@ python diawi_uploader.py [--token TOKEN] [--qr] file [file ...]
 ### Parameters
 
 `--qr` - Shows QR code with link to Diawi page. \
-`--token` - Diawo API token.
+`--token` - Diawi API token.
 
 ### Configuration
 
